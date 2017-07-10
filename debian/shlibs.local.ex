@@ -1,1 +1,1 @@
-liblibmail-rk3288 1.4 libmail-rk3288 (>> 1.4-0), libmail-rk3288 (<< 1.4-99)
+liblibmail-sunxi 1.4 libmail-sunxi (>> 1.4-0), libmail-sunxi (<< 1.4-99)
