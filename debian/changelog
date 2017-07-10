@@ -1,11 +1,5 @@
-libmali-sunxi (1.0-1ayufan2) xenial; urgency=medium
+libmali-sunxi (1.0-1ayufan3) xenial; urgency=medium
 
-  * Automated release
+  * Fix links
 
- -- Kamil Trzcinski <ayufan@ayufan.eu>  Mon, 10 Jul 2017 21:33:30 +0200
-
-libmali-sunxi (1.0-1ayufan1) xenial; urgency=medium
-
-  * Automated release
-
- -- Kamil Trzcinski <ayufan@ayufan.eu>  Thu, 06 Jul 2017 09:00:17 +0200
+ -- Kamil Trzcinski <ayufan@ayufan.eu>  Mon, 10 Jul 2017 21:56:26 +0200
