@@ -1,0 +1,1 @@
+/usr/@CMAKE_INSTALL_LIBDIR@/mali
