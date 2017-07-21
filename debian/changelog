@@ -1,3 +1,15 @@
+libmali-sunxi (1.2-1ayufan5) xenial; urgency=medium
+
+  * Fix links and ld.so.conf
+
+ -- Kamil Trzcinski <ayufan@ayufan.eu>  Fri, 21 Jul 2017 14:29:48 +0200
+
+libmali-sunxi (1.1-1ayufan4) xenial; urgency=medium
+
+  * Store lib in /mali/ and use ld.so.conf
+
+ -- Kamil Trzcinski <ayufan@ayufan.eu>  Fri, 21 Jul 2017 13:44:08 +0200
+
 libmali-sunxi (1.0-1ayufan3) xenial; urgency=medium
 
   * Fix links

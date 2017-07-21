@@ -1,2 +1,3 @@
 #! /usr/bin/dh-exec
-usr/lib/${DEB_HOST_MULTIARCH}/libmali-utgard0-r6p0.so => usr/lib/${DEB_HOST_MULTIARCH}/libMali.so
+usr/lib/${DEB_HOST_MULTIARCH}/libmali-utgard0-r6p0.so => usr/lib/${DEB_HOST_MULTIARCH}/mali/libMali.so
+usr/lib/${DEB_HOST_MULTIARCH}/mali/ld.so.conf => usr/lib/${DEB_HOST_MULTIARCH}/mali/ld.so.conf
